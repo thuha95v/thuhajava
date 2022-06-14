@@ -1,0 +1,6 @@
+SV001|Nguyễn Hữu Quyết|HTTT02-K14|0123111001|Nam Định|quyenminhhai1608@gmail.com|sv001
+SV002|Lê Văn Tài|HTTT02-K14|0123111002|Bắc Ninh|khiemvn@gmail.com|sv002
+SV003|Nguyễn Thị Thuỷ|HTTT02-K14|0123111003|Nam Định|tuannv@gmail.com|sv003
+SV004|Nguyễn Thị Thu Hà|HTTT02-K14|0123111004|Vĩnh Phúc|namnd@gmail.com|sv004
+SV005|Lê Mạnh Cường|HTTT02-K14|0123111005|Vĩnh Phúc|cuonglm@gmail.com|sv005
+123|123|123|0123111003|123|tuannv@gmail.com123|123123

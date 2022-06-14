@@ -1,0 +1,6 @@
+MH001|Lập trình Java|4
+MH002|Lập trình C++|3
+MH003|Lập trình C#|4
+MH004|Hệ quản trị cơ sở dữ liệu|3
+MH005|Phân tích thiết kế hệ thống|3
+MH006|Thiết kế CSDL|3

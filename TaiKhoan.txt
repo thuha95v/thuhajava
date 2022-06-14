@@ -1,0 +1,18 @@
+sv001|123|Sinh viên
+sv002|123|Sinh viên
+sv003|123|Sinh viên
+sv004|123|Sinh viên
+sv005|123|Sinh viên
+gv001|123|Giảng viên
+gv002|123|Giảng viên
+gv003|123|Giảng viên
+gv004|123|Giảng viên
+gv005|123|Giảng viên
+qtv01|123|Quản trị viên
+qtv02|123|Quản trị viên
+qtv03|123|Quản trị viên
+qtv04|123|Quản trị viên
+qtv05|123|Quản trị viên
+123123|123|Sinh Viên
+gv000011|123|Giảng Viên
+sv0011111|123|Giảng Viên
